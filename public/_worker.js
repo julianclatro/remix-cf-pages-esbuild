@@ -39,7 +39,7 @@ var __toModule = (module) => {
 var env, define_process_default;
 var init_define_process = __esm({
   "<define:process>"() {
-    env = { NODE_ENV: "development", VERSION: "2022-01-24T20:01:47.910Z" };
+    env = { NODE_ENV: "development", VERSION: "2022-01-24T20:32:41.893Z" };
     define_process_default = { env };
   }
 });
